@@ -1,0 +1,17 @@
+symantec
+client
+customer
+hi
+hello
+email
+mailto
+thank
+thanks
+please
+date
+find
+good
+bad
+year
+month
+day
